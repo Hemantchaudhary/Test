@@ -1,0 +1,23 @@
+{
+  "sid": "SMc490813df726449bbea7b25810ae936e",
+  "date_created": "Mon, 15 Dec 2014 09:58:39 +0000",
+  "date_updated": "Mon, 15 Dec 2014 09:58:39 +0000",
+  "date_sent": null,
+  "account_sid": "AC19dd50441074c24039421ded77c5af95",
+  "to": "+917503596900",
+  "from": "+17072474103",
+  "body": "Hi This is a test message",
+  "status": "queued",
+  "num_segments": "1",
+  "num_media": "0",
+  "direction": "outbound-api",
+  "api_version": "2010-04-01",
+  "price": null,
+  "price_unit": "USD",
+  "error_code": null,
+  "error_message": null,
+  "uri": "/2010-04-01/Accounts/AC19dd50441074c24039421ded77c5af95/Messages/SMc490813df726449bbea7b25810ae936e.json",
+  "subresource_uris": {
+    "media": "/2010-04-01/Accounts/AC19dd50441074c24039421ded77c5af95/Messages/SMc490813df726449bbea7b25810ae936e/Media.json"
+  }
+}
